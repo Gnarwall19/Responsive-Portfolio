@@ -1,0 +1,1 @@
+This is a responsive professional portfolio web site for software developer Michael Wolfe.
